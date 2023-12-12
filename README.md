@@ -1,6 +1,7 @@
 # Registration Web page
 
-
+## Deployed link
+link: https://dapper-otter-315f41.netlify.app/
 
 ## Installation
 
